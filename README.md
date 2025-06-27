@@ -81,7 +81,7 @@ Education, JobRole, MonthlyIncome (Salary), YearsAtCompany
 Refresh Cycle: [Monthly / Quarterly] (customize as per your case)
 
 🧱 Tools & Technologies
-Microsoft Sequal Server
+Microsoft SQL Server
 
 Microsoft Excel
 
@@ -118,4 +118,4 @@ For questions, feedback, or enhancements, please reach out:
 
 Sourav Sen
 📩 Email: sourav.sen3107@Ggmail.com
-💼 LinkedIn: 
+💼 LinkedIn: www.linkedin.com/in/sourav-sen-5abb64287 
